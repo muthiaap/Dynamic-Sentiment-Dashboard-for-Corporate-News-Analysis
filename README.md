@@ -1,8 +1,11 @@
 # Dynamic Sentiment Dashboard for Corporate News Analysis
 
 Title      : Dynamic Sentiment Dashboard for Corporate News Analysis
+
 Subtitle   : Final Project for Dibimbing.id
+
 Your Name  : Muthia Aisyah Putri
+
 Date       : 28 Juni 2024
 
 ## Project Overview
