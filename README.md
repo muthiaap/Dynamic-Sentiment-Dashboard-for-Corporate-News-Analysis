@@ -6,8 +6,6 @@ Subtitle   : Final Project for Dibimbing.id
 
 Name  : Muthia Aisyah Putri
 
-Date       : 28 Juni 2024
-
 ## Project Overview
 ### Objective:
 To create an automated data pipeline using Apache Airflow for sentiment analysis of daily news articles about a specific company.
